@@ -1,9 +1,6 @@
 # codepencil
 
-
-
-https://github.com/user-attachments/assets/7664622a-4cb0-4c7b-9211-2e1dd68c9269
-
+![ScreenRecording_12-27-2025 14-18-34_1](https://github.com/user-attachments/assets/a11a597a-03c8-403d-b55e-63990e97adf4)
 
 Handwrite code. Execute it. That's it.
 
