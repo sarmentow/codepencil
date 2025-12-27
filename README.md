@@ -1,5 +1,10 @@
 # codepencil
 
+
+
+https://github.com/user-attachments/assets/7664622a-4cb0-4c7b-9211-2e1dd68c9269
+
+
 Handwrite code. Execute it. That's it.
 
 A local-first PWA for handwriting Python on iPad (or anywhere). Scribble with Apple Pencil, let an LLM transcribe it, run it with Pyodide. No accounts, no cloud sync, no telemetry.
